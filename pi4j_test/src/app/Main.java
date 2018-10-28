@@ -15,10 +15,7 @@ package app;
  * $ cd wiringPI
  * $ ./buil
  * 
- * When using the 40-pin Pi Wedge take the next considerations:
- * - The pins assignments:
- *G17 --> GPIO_00
- *G16 --> GPIO_27
+ *ok
  * 
  */
 import com.pi4j.io.gpio.*;
